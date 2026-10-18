@@ -1,6 +1,6 @@
 ### Hi, I'm Taeseung 👋
 
-- 🎓 CS & AI student at Dongguk University
+- 🎓 CS & AI undergrad at Dongguk University
 - 🌱 Currently learning: C++, Data Structures & Algorithms
 - 🎯 Next: AI / Deep Learning fundamentals → reading papers
 - 📂 Study log: [Cpp_study](https://github.com/Taeseung-Lee/Cpp_study)
