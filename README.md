@@ -5,4 +5,4 @@
 - 🎯 Interests & next to study: AI / Deep Learning fundamentals → reading papers
 - 📂 Study log: [Cpp_study](https://github.com/Taeseung-Lee/Cpp_study)
 - 📝 Learning in public, one commit at a time
-- 📫 Contact: [ltsjerome04@gmail.com](mailto:ltsjerome04@gmail.com)
+- 📫 Email: [ltsjerome04@gmail.com](mailto:ltsjerome04@gmail.com)
