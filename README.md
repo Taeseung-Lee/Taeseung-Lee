@@ -2,6 +2,6 @@
 
 - 🎓 CS & AI undergrad at Dongguk University
 - 🌱 Currently learning: C++, JAVA & Algorithms
-- 🎯 Next: AI / Deep Learning fundamentals → reading papers
+- 🎯 Interests & next to study: AI / Deep Learning fundamentals → reading papers
 - 📂 Study log: [Cpp_study](https://github.com/Taeseung-Lee/Cpp_study)
 - 📝 Learning in public, one commit at a time
