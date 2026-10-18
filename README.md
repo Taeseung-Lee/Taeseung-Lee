@@ -1,4 +1,4 @@
-### About Me
+### A Little About Me
 
 - 🎓 CS & AI undergrad at Dongguk University
 - 🌱 Currently learning: C++, Java & Algorithms
