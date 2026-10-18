@@ -1,4 +1,4 @@
-### Hi, I'm Taeseung 👋
+### About Me 👋
 
 - 🎓 CS & AI undergrad at Dongguk University
 - 🌱 Currently learning: C++, Java & Algorithms
